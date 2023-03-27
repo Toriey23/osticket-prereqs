@@ -41,7 +41,7 @@ Creating a Resource Group and Virtual Machine in Microsoft Azure</p>
 <img src="https://imgur.com/WBPqwt3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Creating a Resource Group and Virtual Machine in Microsoft Azure, second step while including the necessary information.</p>
+Inputting necessary information required to create the Resource Group and Virtual Machine</p>
 <br />
 
 <p>
