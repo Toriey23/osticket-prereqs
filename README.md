@@ -66,12 +66,12 @@ Log in information after adding IP address</p>
 <br />
 
 <p>
-Screen where the first PC connection is added to access the platform</p>
-<br />
-
-<p>
 <img src="https://i.imgur.com/A2zTiIZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+
+<p>
+Screen where the first PC connection is added to access the platform</p>
+<br />
 
 <p>
 <img src="https://i.imgur.com/InIsmig.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
