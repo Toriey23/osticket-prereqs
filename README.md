@@ -78,8 +78,14 @@ Screen where the first PC connection is added to access the platform</p>
 </p>
 
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Connecting to the remote Windows platform</p>
+<br />
+
+<p>
+<img src="https://imgur.com/NVyoKER.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
+<p>
+Inside Windows via remote access, and searching for the Command Terminal</p>
 <br />
 
 <p>
@@ -87,14 +93,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 </p>
 <p>
 Romote Access successful and logging in on the Windows platform</p>
-<br />
-
-<p>
-<img src=".png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
 <br />
 
 <p>
