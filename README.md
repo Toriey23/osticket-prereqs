@@ -55,7 +55,7 @@ Virtual Machine informaiton</p>
 <img src="https://i.imgur.com/w9B7QL5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-PC and User IP Address screen for adding a new PC</p>
+PC and User IP Address screen, for adding a new PC</p>
 <br />
 
 <p>
@@ -70,7 +70,7 @@ Log in information after adding IP address</p>
 </p>
 
 <p>
-Screen where the first PC connection is added to access the platform</p>
+The screen where the first PC connection is added to access the platform</p>
 <br />
 
 <p>
@@ -99,5 +99,5 @@ Inside Windows via remote access, and searching for the Command Terminal</p>
 <img src="https://imgur.com/MhQN6ef.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Running commands in the Command Terminal and reading the outcome</p>
+Running commands in the Command Terminal and reviewing the outcome</p>
 <br />
